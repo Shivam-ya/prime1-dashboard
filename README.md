@@ -12,14 +12,14 @@ This project was developed to demonstrate full-stack integration, focusing on:
 
 # Features
 
-# Authentication
+Authentication
 
 **Secure Signup & Login:** Validation for email and password.
 **Protected Routes:** Only authenticated users can access the dashboard.
 **JWT Integration:** Secure token-based session management stored in `localStorage`.
 **Logout:** Complete session clearing and redirection.
 
-# Dashboard Functionality
+Dashboard Functionality
 
 **Profile Management:** View and edit user roles dynamically.
 **Task Management:** View assigned work, edit task descriptions, and mark tasks as completed.
