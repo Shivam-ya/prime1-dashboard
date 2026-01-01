@@ -59,7 +59,7 @@ prime1/
 
 # 1. Clone the Repository
 
-git clone https://github.com/YOUR_USERNAME/prime1.git
+git clone https://github.com/Shivam-ya/prime1-dashboard.git
 cd prime1
 
 # 2. Backend Setup
@@ -85,19 +85,19 @@ cd client
 npm install
 npm run dev
 
-*Frontend running on: `http://localhost:5173*`
+Frontend running on:`http://localhost:5173`
 
 # Future Roadmap
 
- [ ] **Database Persistence:** Fully sync dashboard task edits with MongoDB.
- [ ] **Admin Panel:** Create a specific view for managers to assign tasks.
- [ ] **RBAC:** Implement Role-Based Access Control for different user levels.
- [ ] **Deployment:** Host the frontend on Netlify/Vercel and backend on Render.
+ [ ] Database Persistence: Fully sync dashboard task edits with MongoDB.
+ [ ] Admin Panel: Create a specific view for managers to assign tasks.
+ [ ] RBAC: Implement Role-Based Access Control for different user levels.
+ [ ] Deployment: Host the frontend on Netlify/Vercel and backend on Render.
 
 #  Author
 
-**Shivam Yadav** *Frontend Developer | React & UI Enthusiast* [GitHub Profile](https://www.google.com/search?q=https://github.com/YOUR_USERNAME)
+*Shivam Yadav* Frontend Developer | React & UI Enthusiast* [GitHub Profile](https://github.com/Shivam-ya/prime1-dashboard.git)
 
 
-> **Note:
-** If you find this project helpful, feel free to ⭐ star the repository!
+> Note:
+If you find this project helpful, feel free to ⭐ star the repository!
